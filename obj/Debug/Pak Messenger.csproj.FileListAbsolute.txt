@@ -1,0 +1,28 @@
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\bin\Debug\Pak Messenger.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\bin\Debug\Pak Messenger.exe
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\bin\Debug\Pak Messenger.pdb
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.SplashScreen.resources
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.exe
+c:\users\user\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.pdb
+C:\Users\USER\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.FormRegister.resources
+C:\Users\USER\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.MainPage.resources
+C:\Users\USER\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.Settings.resources
+C:\Users\USER\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.Theme.resources
+C:\Users\USER\documents\visual studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.FormAdd.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\bin\Debug\Pak Messenger.exe.config
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.exe
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.pdb
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\bin\Debug\Pak Messenger.exe
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.csprojResolveAssemblyReference.cache
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.SplashScreen.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.FormAdd.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.FormRegister.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.MainPage.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.Properties.Resources.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.Settings.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak_Messenger.Theme.resources
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\obj\Debug\Pak Messenger.csproj.GenerateResource.Cache
+C:\Users\munee\Documents\Visual Studio 2012\Projects\Pak Messenger\Pak Messenger\bin\Debug\Pak Messenger.pdb
